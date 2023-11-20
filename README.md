@@ -1,4 +1,4 @@
-# Logistic-Company-s-Dataset 
+# Logistic-Company's-Dataset 
 
 In this repo, I embarked on a journey to enhance and streamline the logistics operations of a dynamic logistics company. Leveraging the extensive Logistics Company dataset, we harnessed the power of SQL to extract actionable insights, make data-driven decisions, and drive operational efficiency.
 
